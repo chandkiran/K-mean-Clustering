@@ -7,9 +7,7 @@ This repository contains two implementations of the K-Means clustering algorithm
 - [K-Means from Scratch](#k-means-from-scratch)
 - [Customer Segmentation Analysis](#customer-segmentation-analysis)
 - [Elbow Method for Optimal Clusters](#elbow-method-for-optimal-clusters)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 K-Means clustering is an unsupervised machine learning algorithm used for partitioning datasets into distinct groups based on feature similarity. This repository includes:
